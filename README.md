@@ -13,3 +13,8 @@ Y para construir el build (paquete - carpeta dist)
 ```
 comando: npm run build
 ```
+
+Dirección del proyecto
+```
+https://ces1980.github.io/webpack-starter/
+```
